@@ -1,0 +1,15 @@
+{
+  "name": "Quantex Intelligence Systems",
+  "description": "Next-generation AI and Machine Learning solutions provider specializing in professional, scalable, and secure intelligence systems for global enterprises.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI/ML Solutions",
+    "Predictive Analytics",
+    "Computer Vision",
+    "Enterprise Automation"
+  ]
+}
